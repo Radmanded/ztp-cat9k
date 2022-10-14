@@ -26,10 +26,10 @@ $ sudo vim ztp.py
 ```
 
 ### Python Script Example
-```
 
 
-```
+<img width="570" alt="python-script" src="https://user-images.githubusercontent.com/9085386/195929947-8938bc53-c2fd-4ff9-9459-26bcdda582aa.PNG">
+
 
 ## DHCP server configuration
 
